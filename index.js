@@ -781,5 +781,3 @@ app.get('*', (req, res) => {
 var listener = app.listen(PORT, function(){
     console.log('Listening on port ' + listener.address().port); //Listening on port 8000
 });
-
-exports.app = functions.https.onRequest(app);
