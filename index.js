@@ -14,7 +14,6 @@ app.use(express.urlencoded({ extended: true }));
 app.use(cors());
 app.use("/", require("./routes"));
 
-
 // const client = new Client("postgresql://karanjot:b3Sm8xqUfND1FlJtN43oHA@maxed-newt-10787.5xj.cockroachlabs.cloud:26257/netflix?sslmode=verify-full");
 
 // (async () => {
