@@ -58,13 +58,29 @@ app.use("/", require("./routes"));
 //     port:'3300'
 // };
 
+// let config = {
+//     host     : 'sql9.freemysqlhosting.net',
+//     user     : 'sql9627718',
+//     password : 'KxEK7BerUa',
+//     database : 'sql9627718',
+//     port:'3306'
+// };
+
+// let config = {
+//     host: 'pebble-possum-11177.5xj.cockroachlabs.cloud',
+//     user: 'karanjot',
+//     database: 'netflix-vms',
+//     password: 'l_uiAA7CUCR5C-NUijZDVw',
+//     port: '26257'
+// }
+
 let config = {
-    host     : 'sql9.freemysqlhosting.net',
-    user     : 'sql9627718',
-    password : 'KxEK7BerUa',
-    database : 'sql9627718',
-    port:'3306'
-};
+    host: '51.81.160.157',
+    user: 'kxs9016_kxs9016',
+    password: 'kxs9016@mavs',
+    database: 'kxs9016_netflix',
+    port: '3306'
+}
 
 let connection;
 

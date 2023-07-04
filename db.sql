@@ -68,34 +68,3 @@ insert into Content (name, image_data, release_date, average_rating, genre, type
 ('Big Bang Theory', 'https://flxt.tmsimg.com/assets/p185554_b_h10_bk.jpg', '2005-11-08 00:00:00', 9.5, 'Comedy', 'TV');
 
 
-
-insert into Content (name, image_data, release_date, average_rating, genre, type) values 
-('Friends', '', '1994-11-08 00:00:00', 9.5, 'comedy', 'TV'),
-('How I Met Your Mother', '', '2005-11-08 00:00:00', 9.2, 'comedy,drama', 'TV'),
-('Flash', '', '2010-11-08 00:00:00', 9.5, 'thriller, 'TV''),
-('Suits', '', '2015-11-08 00:00:00', 9.2, 'drama', 'TV'),
-('New Girl', '', '2010-11-08 00:00:00', 9.5, 'comedy', 'TV'),
-('Game Of Thrones', '', '2010-11-08 00:00:00', 9.2, 'thriller,action,drama', 'TV'),
-('Big Bang Theory', '', '2005-11-08 00:00:00', 9.5, 'Comedy', 'TV'),
-('Friends', '', '1994-11-08 00:00:00', 9.5, 'comedy', 'TV'),
-('How I Met Your Mother', '', '2005-11-08 00:00:00', 9.2, 'comedy,drama', 'TV'),
-('Flash', '', '2010-11-08 00:00:00', 9.5, 'thriller, 'TV''),
-('Suits', '', '2015-11-08 00:00:00', 9.2, 'drama', 'TV'),
-('New Girl', '', '2010-11-08 00:00:00', 9.5, 'comedy', 'TV'),
-('Game Of Thrones', '', '2010-11-08 00:00:00', 9.2, 'thriller,action,drama', 'TV'),
-('Big Bang Theory', '', '2005-11-08 00:00:00', 9.5, 'Comedy', 'TV'),
-('Friends', '', '1994-11-08 00:00:00', 9.5, 'comedy', 'TV'),
-('How I Met Your Mother', '', '2005-11-08 00:00:00', 9.2, 'comedy,drama', 'TV'),
-('Flash', '', '2010-11-08 00:00:00', 9.5, 'thriller, 'TV''),
-('Suits', '', '2015-11-08 00:00:00', 9.2, 'drama', 'TV'),
-('New Girl', '', '2010-11-08 00:00:00', 9.5, 'comedy', 'TV'),
-('Game Of Thrones', '', '2010-11-08 00:00:00', 9.2, 'thriller,action,drama', 'TV'),
-('Big Bang Theory', '', '2005-11-08 00:00:00', 9.5, 'Comedy', 'TV'),
-('Friends', '', '1994-11-08 00:00:00', 9.5, 'comedy', 'TV'),
-('How I Met Your Mother', '', '2005-11-08 00:00:00', 9.2, 'comedy,drama', 'TV'),
-('Flash', '', '2010-11-08 00:00:00', 9.5, 'thriller, 'TV''),
-('Suits', '', '2015-11-08 00:00:00', 9.2, 'drama', 'TV'),
-('New Girl', '', '2010-11-08 00:00:00', 9.5, 'comedy', 'TV'),
-('Game Of Thrones', '', '2010-11-08 00:00:00', 9.2, 'thriller,action,drama', 'TV'),
-('Big Bang Theory', '', '2005-11-08 00:00:00', 9.5, 'Comedy', 'TV');
-
